@@ -1,0 +1,72 @@
+---
+layout: page
+title: Presentation Schedule (1010 Section)
+permalink: /internship_presentation_schedule_1010
+---
+
+Don't forget to send your instructor your slides by the previous day Thursday 9 PM.
+
+The presentations will be given in the order they are listed on the particular date.
+
+## WEEK 1 (Week of 30 AUG)
+
+* [Introduction to course requirements]({{site.baseurl}}/internships/pdfs/introduction-internship.pdf)
+* [Lecture on giving a good presentation]({{site.baseurl}}/internships/pdfs/lecture-on-presentations-internship.pdf)
+
+## WEEK 2 (Week of 6 SEP)
+
+* [Lecture on assertion evidence format]({{site.baseurl}}/internships/pdfs/lecture-on-assertion-evidence-format.pdf)
+
+## WEEK 3 (Week of 13 SEP)
+  
+* Student presentations
+  
+## WEEK 4 (Week of 20 SEP)
+
+* Student presentations
+
+## WEEK 5 (Week of 27 SEP)
+
+* Student presentations
+
+## WEEK 6 (Week of 4 OCT)
+
+* Student presentations
+
+## WEEK 7 (Week of 11 OCT)
+
+* Student presentations
+
+## WEEK 8 (Week of 18 OCT)
+
+* Student presentations
+
+## WEEK 9 (Week of 25 OCT)
+
+* Student presentations
+
+## WEEK 10 (Week of 1 NOV)
+
+* Student presentations
+
+## WEEK 11 (Week of 8 NOV)
+
+* Student presentations
+
+## WEEK 12 (Week of 15 NOV)
+
+* Student presentations
+
+## WEEK 13 (Week of 22 NOV)
+
+* Student presentations
+
+## WEEK 14 (Week of 29 NOV)
+
+* Thanksgiving Break (NO CLASS)
+
+## WEEK 15 (Week of 6 DEC)
+
+* Student presentations
+
+**[[[ Best Capstone Speaker awards ]]]**

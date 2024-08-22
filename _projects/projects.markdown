@@ -10,11 +10,23 @@ This list is not complete yet!
 
 CGI x2
 **Will require signing an NDA/IP release**
-
+TBA
 
 # CS Projects
 
-## Behavior, Fairness, and Safety in Traffic Control
+# Community Projects
+
+## Pittsburgh Radio Rosary and Consecration Interactive Prayer Service
+The Pittsburgh Radio Rosary and Consecration (PITTRRC), Inc. provides a daily 7 pm scriptural Rosary and Sacred Heart prayer of Consecration radio broadcast on WKHB at 620 am and transmits on 92.3, 94.1, and 102.1 FM. This broadcast, a tradition for over 50 years in the Pittsburgh region, has been a source of spiritual connection and unity. In April 2022, PITTRRC assumed the ministry's rights and responsibility; now, we are ready to take it to new heights. PITTRRC created a new audio production in July 2022, and we want to enhance the ministry with a unique prayer-based interactive website and YouTube channel. This technological capability with the website will allow anyone to pray together or independently, educate, and communicate with one another in faith. This website would be unconventional by design, offer interactive prayer, and go beyond a standard text-only WordPress site.
+
+[More information]({{site.baseurl}}/projects/pdfs/PITTRRC_F2024.pdf)
+
+Team Size: 3/4 students
+POC: John DePasquale (mailto:jbdepasquale@msn.com)
+
+
+
+<!-- ## Behavior, Fairness, and Safety in Traffic Control
 In recent years, several studies have proposed different methods and formulations for the Traffic Signal Control problem, presenting promising results and flexible traffic light solutions. Some of the studies investigate technical AI aspects (e.g., different neural network architectures, transfer learning, RL models, etc.) and the coordination problem (e.g., distributed systems), while others are interested in the implementation side of things (e.g., Systems/IoT), just to name a few of the interests within the Computer Science realm.
 
 For this project, the focus is to verify how adaptive systems handle not only efficiency (e.g., minimize time loss) but also other important aspects of traffic control, namely, behavior changes in traffic flow due to expected and unexpected events, fairness between the different actors of the system, and safety (e.g., accidents prevention).
@@ -26,9 +38,9 @@ For the capstone project, we want you to focus on one specific aspect of Traffic
 We are looking for self-motivated, independent individuals interested in real-world problems. Being comfortable programming Python is indispensable since you will work with pre-existing (and extensive) code, interact with the traffic simulator (Sumo), run experiments, and plot graphs. Interest in doing research is differential since you will write and read about it. Interest in RL is desirable but knowledge is not required.
 
 * Team Size: 3/4 students
-* POC: Marcelo d'Almeida (marcelo@pitt.edu)
+* POC: Marcelo d'Almeida (marcelo@pitt.edu) -->
 
-## Connecting Indigenous Knowledge
+<!-- ## Connecting Indigenous Knowledge
 
 [More information]({{site.baseurl}}/projects/pdfs/Connecting_Indigenous_Knowledge-CS_Capstone.pdf)
 
@@ -51,17 +63,17 @@ Visualizing and exploring  ITK with knowledge graphs can provide a new perspecti
     - Neo4j graph database
 
 * Team Size: 3/4 students
-* POC: Dmitriy Babichenko (dmitriy.b@pitt.edu)
+* POC: Dmitriy Babichenko (dmitriy.b@pitt.edu) -->
 
 
-## Transformations project
+<!-- ## Transformations project
 
 * Team Size: 2/3 students
-* POC: Nick Farnan (nlf4@pitt.edu) and Israel Herndon
+* POC: Nick Farnan (nlf4@pitt.edu) and Israel Herndon -->
 
-## Nadine
+<!-- ## Nadine -->
 
-## Daniel Mosse projects
+<!-- ## Daniel Mosse projects
 
 1 - Hyperparameter Optimization (applied to machine-learning-based Intrusion Detection Systems (IDSs)): This area is directed towards the automated selection and tuning of hyperparameters in an effort to enhance the efficiency and effectiveness of intrusion detection systems based on machine-learning methods.
 2 - Explainable Artificial Intelligence - XAI (applied to machine-learning-based Intrusion Detection Systems (IDSs)): This subject deals with the development of machine-learning models that are not just effective, but are also transparent and interpretable. The goal is to create IDSs that users can not only trust but also understand.
@@ -77,10 +89,10 @@ We are open to adapting the project to explore Explainable Artificial Intelligen
 Students also have the unique opportunity to collaborate on a project with the Federal University of Pampa in Brazil. They have a project (XAIID - Intelligent and Explainable Strategies for Intrusion Detection in Cyber-Physical Systems) that focuses on intelligent and explainable strategies for intrusion detection in cyber-physical systems. Participants will not only gain valuable international research experience but will also be awarded a certificate of completion for their contributions to the XAIID project.
 
 * Team Size: 2/3 students each project
-* POC: Daniel Mossé (mosse@pitt.edu), Silvio Quincozes (sequincozes@gmail.com)
+* POC: Daniel Mossé (mosse@pitt.edu), Silvio Quincozes (sequincozes@gmail.com) -->
 
 
-## Virtual dashboard to manage SCI rooms and inventory
+<!-- ## Virtual dashboard to manage SCI rooms and inventory
 This project will aim at creating a new equipment inventory management/loaner management page for SCI.
 Current system is OLD and not great! For example, it can only be used for Sennott. And we want to replace it with one that expands its functionality and embraces whole SCI
 
@@ -104,10 +116,10 @@ And once the projects are selected for implementation, SCI community can track t
 Posters need to be created to advertise the page.
 
 * Team Size: 2/3 students
-* POC: Matheus Barbosa (matheus.lb@gmail.com)
+* POC: Matheus Barbosa (matheus.lb@gmail.com) -->
 
 
-## Luis Oliveira projects - ONLY 2 out of these 3!
+<!-- ## Luis Oliveira projects - ONLY 2 out of these 3!
 
 ### Measuring performance losses of a userspace traffic controller
 In this project we will be implementing a non-workconserving network-traffic scheduler in the Linux kernel and measure its performance when compared to a user-space implementation.
@@ -151,11 +163,11 @@ Once we are able to use the devices, we will build a simple application that can
     - Experience with embedded systems is good, but not needed (you can learn!)
 
 * Team Size: 2/3 students
-* POC: Luís Oliveira (loliveira@pitt.edu)
+* POC: Luís Oliveira (loliveira@pitt.edu) -->
 
 
 
-# Other units projects
+<!-- # Other units projects
 
 ## UMS - Visual Novel Game
 
@@ -173,18 +185,18 @@ Desired Features:
 **Check Canvas for details**
 
 * Team Size: 3/4 students
-* POC: Justin Bortnick (jabortnick@pitt.edu)
+* POC: Justin Bortnick (jabortnick@pitt.edu) -->
 
 
-## Dashboard to manage the Involvement and Student Unions units
+<!-- ## Dashboard to manage the Involvement and Student Unions units
 The department of Involvement and Student Unions is a newly imagined area within Student Affairs. It has taken the place of what was Student Life. This departments mission is to Magnify mattering through Place, Space & Activities. Unlike most departments within Student Affairs, this area is composed a of a number different units, The Student Unions, The Pitt Program Council, PITT ARTS, Technical Services, and the Student Organizations Resource Center (SORC). Each of these areas have distinct deliverables, cultures, and financial systems with staff members with varying degrees of financial knowledge.
 
 The challenge is multileveled. The first is to understand the financial spending approach of each area so that a local version of a tracking tool can be created rightsized for the unit. The second is to create a unified centralized system that can support each unique area while providing a summary dashboard that can tabulate and provide comparative data live to the director. Third is the ability to integrate spending goals related to diversity and sustainability.
 
 * Team Size: 3/4 students
-* POC: DaVaughn Vincent-Bryan (davaughn.vincentbryan@pitt.edu)
+* POC: DaVaughn Vincent-Bryan (davaughn.vincentbryan@pitt.edu) -->
 
-## AI for Surgical Research
+<!-- ## AI for Surgical Research
 
 Project Background
 
@@ -208,7 +220,7 @@ Team
 
   - Nicolás Kass, Craniofacial and Pediatric Plastic Surgery Research Fellow and Co-Director of Medical Research, Surreality Lab (Primary)
 
-  -  Dr. Ted Andrews, Assistant Professor of Neurosurgery, Founder and Director of Surreality Lab (secondary)
+  -  Dr. Ted Andrews, Assistant Professor of Neurosurgery, Founder and Director of Surreality Lab (secondary) -->
 
 <!-- 30-43 -->
 

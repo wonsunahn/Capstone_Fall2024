@@ -5,7 +5,7 @@ permalink: /projects_schedule
 
 # CS1980 and CS1640 FALL 2023 COURSE SCHEDULE #
 
-**This schedule is ~tentative~ wrong! and likely to change!**
+**This schedule is ~tentative~ and may change!**
 {: style="color: #F00"}
 
 As always, keep up with the [University Academic Calendar][university-calendar] for general important university dates.
@@ -16,7 +16,7 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 | September 6  | Project pitches     |
 | September 13 | [Presentation 1]({{site.baseurl}}/lectures/Capstone_Lecture1.pdf) <br> Sprint 1 project begins!     |
 | September 20 | [Presentation 2]({{site.baseurl}}/lectures/Capstone_Lecture2_RequirementsElicitation.pdf)  |
-| September 27 | Retrospective 1 - Project proposal due (one per group)<br> Sprint 2 begins     |
+| September 27 | Retrospective 1 <br> Project proposal due (one per group)<br> Sprint 2 begins     |
 | October 4   | No class                                                                |
 | October 11    | Retrospective 2 <br>Sprint 3 begins   |
 | October 18   |[Presentation 3]({{site.baseurl}}/lectures/lecture-on-presentations.pdf)   |

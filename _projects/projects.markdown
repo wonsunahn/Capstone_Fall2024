@@ -4,224 +4,297 @@ permalink: /projects/
 ---
 
 # Capstone Project List - WORK IN PROGRESS
-This list is not complete yet!
+This list is not complete yet! (Contains most projects)
 
 # Industry Capstone Projects
 
-CGI x2
+## CGI 
 **Will require signing an NDA/IP release**
-TBA
 
-# CS Projects
+### CGI Member Management System
+CGI members work on different projects for clients. As a project approaches conclusion there is a period where members are seeking their next project. Currently, members who are seeking their next project receive via emails and gain access to an Excel spreadsheet that is updated daily with project opportunities.  This excel contains numerous columns (26) on all the details of the opening. The member then sorts through the positions to find something that fits their qualifications and desires. Members then send an email to the Workforce Manager of a list of openings they are interested in with some of the necessary data to apply for the opening, along with some other documents with required information about the member. The Workforce Manager relays this information to the hiring managers of that opening to onboard the member. During this entire process, CGI members have a Member Manager who can also assist members with finding and applying to open positions. 
 
-# Community Projects
+The goal of this project is to develop a web application to streamline this process. The application will contain the data from the Excel spreadsheet that members can see and look for openings that match their role and qualifications. Members can apply for the role directly from the web application, and the Workforce Manager can see the candidates and who have applied for the opening to send to hiring managers. Member Managers will also have a view of the web application to be able to assist members with finding openings.
 
-## Pittsburgh Radio Rosary and Consecration Interactive Prayer Service
+Identified Personas:
+- Workforce Manager: The admin of the web application that uploads daily CGI Openings
+- Hiring Managers: The managers who have the opening on the list
+- Member Managers: Manage the CGI member who is IBA
+- Available CGI Member: The member that is looking for an opening of a project/role/position
+
+Outcome for Students: 
+- Learning SDLC while using Agile Methodologies 
+    - Utilizing 2-week sprints and introductions to agile ceremonies 
+- Using project management software to track progress of work through the semester 
+- Implementing business logic for Applications to job openings
+- Separating application flows depending on user access
+
+Technologies: 
+- Git
+- Maven
+- Spring Boot, Java
+- Node.js, NPM
+- Angular
+- MySQL
+
+Team Size: 3-4 students
+
+POC: Anastasia Mokhon (anastasia.mokhon@cgi.com)
+
+### GenAI-powered Customer 360° View
+In modern businesses, understanding the customer holistically is critical for delivering personalized experiences, improving customer satisfaction, and driving business growth. However, customer data is often fragmented across multiple systems and departments, making it challenging to obtain a unified view. This project aims to develop a GenAI-powered solution that consolidates customer data from various sources to create a comprehensive Customer 360° View & insights/recommendations.
+
+The solution will leverage Large Language Models (LLMs) to analyze and synthesize customer data, providing insights into customer behavior, preferences, sentiment, and more. The customer data will be stored in a vector database, allowing for efficient retrieval and similarity search. Based on user input, relevant data will be dynamically populated to provide a real-time, personalized customer view. The goal is to enable businesses to have a complete understanding of each customer, allowing for more targeted marketing, better customer service, and informed decision-making
+
+Identified Personas:
+- Marketing Manager: Uses Customer 360° View to segment customers and create personalized marketing campaigns.
+- Customer Support Agent: Accesses detailed customer history and sentiment analysis to provide tailored support.
+- Sales Representative: Utilizes insights from the Customer 360° View to identify upsell and cross-sell opportunities.
+- Data Analyst: Analyzes aggregated customer data to identify trends and provide strategic recommendations.
+Outcome for Students: 
+- Learning about the integration of GenAI with customer data systems.
+- Understanding the process of creating a unified data model from disparate sources.
+- Gaining experience in developing AI models.
+- Utilizing AI-driven analytics to extract actionable insights from customer data.
+
+Technologies: 
+- Python 
+- GenAI concepts - LLM, RAG, Embeddings 
+- FAISS – Vector database 
+- VS Code/Jupiter Notebook 
+- Angular
+
+Team Size: 3-4 students
+
+POC: Praveen Sone (praveen.sone@cgi.com)
+
+## Neuraville
+Neuraville Inc. is a leading deep technology company headquartered in Pittsburgh, PA, specializing in artificial general intelligence (AGI) and robotics. Our mission is to make the development of safe, versatile, and functional AI systems accessible to everyone. We focus on creating AI that can process diverse sensory data and execute complex tasks requiring cognitive reasoning and decision-making.
+At Neuraville, we embrace a novel approach rooted in nature-inspired methodologies, drawing insights from neuroscience, genetics, and developmental biology. This allows us to develop AI systems that mirror the complexity and adaptability of natural intelligence. We believe in democratizing AI, empowering individuals to innovate, create, and profit from their ideas. Our vision is to see, in the near future, robots extending a helping hand to humans in need—whether due to aging, sickness, disability, or simply as assistants to take on the burden of repetitive and mundane tasks—allowing us to focus on what we value most.
+
+Each project revolves around our open-source platform, FEAGI, and I have attached additional background information on both FEAGI and Neuraville for your reference. The estimated duration for each project is 3-4 weeks for a single full-time junior engineer, making them manageable for a team of 3 to 4 students within a semester timeframe. Our engineering team will be on hand to offer support throughout the course of these projects.
+
+Importantly, all projects are fully open-source, so students are not required to sign NDAs or any IP ownership agreements. This allows them the freedom to publish their work and potentially continue contributing to the project thereafter.
+
+### Integrating MuJoCo Physics Simulator with FEAGI for Real-Time Neuromorphic Control of Simulated Robots
+Objective:
+
+The primary objective of this project is to develop an integration between MuJoCo and FEAGI to demonstrate simple neuromorphic control of a simulated humanoid, focusing on maintaining its balance. As a stretch goal, implementing a walking mechanism will also be considered. This project involves developing a Python module that will interface with both MuJoCo’s Python SDK to interact with the simulated robot and FEAGI’s SDK and API to connect with the FEAGI platform. Sensory information will be captured from the simulator via the MuJoCo SDK, translated into neuronal activities using existing FEAGI modules, and transmitted to FEAGI. Additionally, motor commands generated by FEAGI will be converted into corresponding actions and sent to MuJoCo to control the simulated model. To demonstrate the functionality, a basic neural pathway will be created within the FEAGI platform to stabilize the model in an upright position. This pathway can later be extended to enable walking.
+
+
+Background:
+MuJoCo (Multi-Joint dynamics with Contact) is a powerful and widely-used physics simulator known for its ability to accurately model the dynamics of rigid bodies, making it ideal for robotics research. FEAGI, on the other hand, is an open-source framework designed to simulate artificial brains modeled after the human brain's structure and function. By integrating these two systems, this project aims to create a platform where neuromorphic AI can be tested and developed in realistic simulated environments, bridging the gap between brain-inspired AI research and practical robotics applications.
+
+Team Size: 3-4 students
+
+POC: Mohammad Nadji (nadji@neuraville.com)
+
+### Integrating FEAGI with Webots for Advanced Neuromorphic Robot Simulations
+
+Objective:
+
+The primary objective of this project is to develop an integration between Webots and FEAGI to demonstrate simple neuromorphic control of a simulated robot arm, focusing on basic arm movements such as reaching and positioning. As a stretch goal, implementing more complex tasks, such as object manipulation, will also be considered. This project involves developing a Python module that will interface with both Webots' API to interact with the simulated robot arm and FEAGI’s SDK and API to connect with the FEAGI platform. Sensory information will be captured from the Webots simulation via its API, translated into neuronal activities using existing FEAGI modules, and transmitted to FEAGI. Additionally, motor commands generated by FEAGI will be converted into corresponding movements and sent to Webots to control the simulated robot arm. To demonstrate the functionality, a basic neural pathway will be created within the FEAGI platform to enable the robot arm to perform simple movements, such as reaching or positioning an object. This pathway can later be extended to handle more complex tasks, such as grasping, object manipulation, or executing a series of coordinated movements.
+
+Background:
+
+Webots is a versatile and widely-used open-source robot simulation platform that enables detailed modeling and control of robots in 3D environments. It supports various robot models and sensors, making it an essential tool for research, education, and development in robotics. Webots allows for realistic simulations of robotic systems, offering a safe and flexible environment to test and refine robotic behaviors before deploying them in the real world. This project integrates Webots with FEAGI, an open-source platform for simulating brain-inspired AI, to control a simulated robot arm using neuromorphic principles.
+
+Team Size: 3-4 students
+
+POC: Mohammad Nadji (nadji@neuraville.com)
+
+### Developing a simple 3D TurtleBot Simulation with Swappable Maze Scenes and FEAGI Playground Integration in Godot Game Engine
+
+Objective:
+
+The goal of this project is to design and develop a 3D simulation of a TurtleBot robot that can navigate in a maze to reach a target. The bot will be equipped with distance sensors enabling it to detect its distance from walls. Integration with FEAGI will enable the simulated bot to navigate the maze based on motor commands received from FEAGI as a direct result of sensory data collected by the bot. The maze scenes should be swappable so the bot can be trained in mazes with various difficulty levels. As a stretch goal, the team will develop an AI model in the form of a neural pathway in FEAGI that can solve the maze.
+
+Background:
+
+TurtleBot is a popular platform used in education and research for exploring robot navigation and control. FEAGI (Framework for Evolutionary Artificial General Intelligence) is an open-source project designed to simulate brain-inspired AI models. The Godot game engine is an open-source, cross-platform game development tool known for its flexibility and ease of use. It supports both 2D and 3D game development, making it a popular choice for indie developers and hobbyists.
+
+Team Size: 3-4 students
+
+POC: Mohammad Nadji (nadji@neuraville.com)
+
+### Developing an AI Model for Gesture Recognition Using FEAGI
+
+Objective:
+
+The objective of this capstone project is to design, develop, and train an artificial intelligence (AI) model within the FEAGI (Framework for Evolutionary Artificial General Intelligence) platform that can recognize and interpret simple human hand gestures in real-time. The project will focus on integrating sensory data (such as visual input from cameras) and using FEAGI’s neuromorphic architecture to detect and classify a set of predefined gestures to control game characters. Game integration is outside the scope of this project and will be provided to the team. As a stretch goal of this project, the team can attempt to recognize more complex hand gestures such as the ones used in ASL (American Sign Language).
+
+Background:
+
+Gesture recognition is a critical technology in human-computer interaction, enabling systems to interpret human motions as input. FEAGI, with its brain-inspired AI architecture, provides a unique platform to explore the neuromorphic approach to gesture recognition. By leveraging evolutionary learning techniques and the brain-inspired structure of FEAGI, this project will create a gesture recognition model capable of understanding human hand or body movements.
+
+Team Size: 3-4 students
+
+POC: Mohammad Nadji (nadji@neuraville.com)
+
+### Developing a Neuromorphic Model for Imitation Learning Using FEAGI
+Objective:
+
+The objective of this capstone project is to design and develop a neuromorphic AI model using a deep Spiking Neural Network within the FEAGI platform to perform imitation learning. The focus will be on creating a brain-inspired model capable of observing and replicating actions performed by a human or a human-controlled game character and associating these actions with the embodiment connected to the model. The successful model will reliably imitate simple directional movements and effectively use these movements to learn how to play a 2D game leveraging Hebbian learning. 
+
+Background:
+
+Imitation learning is a powerful concept in artificial intelligence where an agent learns to perform tasks by observing the behavior of another agent or human. This method is particularly effective in scenarios where explicit programming is challenging or impractical. Neuromorphic computing, which mimics the structure and function of biological neural networks, offers a promising approach to developing AI systems that can naturally learn and adapt through imitation. FEAGI provides a flexible and scalable platform for implementing these neuromorphic models.
+
+Team Size: 3-4 students
+
+POC: Mohammad Nadji (nadji@neuraville.com)
+
+# Community and Other Projects
+
+## NOAA
+### Machine Learning Based Predictive Modeling of Bacterial Pathogens with Stony Coral Tissue Loss Disease
+In 2014, Stony Coral Tissue Loss Disease (SCTLD) was first observed in Virginia Key, Florida (Miller et al., 2016; Precht et al., 2016; Walton et al., 2018). The disease spread swiftly through Florida and is now in the Caribbean, making it one of the longest-lasting coral disease outbreaks. To date, SCTLD impacts at least 23 species of reef-building corals, significantly reducing coral diversity in an already vulnerable ecosystem (Precht et al., 2016; Walton et al., 2018). 
+
+As with many coral diseases, the cause of SCTLD remains unclear. Preliminary research suggests that antibiotics may be effective in halting lesion progression (Aeby et al., 2019). This points to the possibility that the pathogen could be bacterial, or that secondary bacterial infections might significantly contribute to lesion development.  Studies to date have not identified bacteria consistently present across coral species (Rosales et al., 2023, Meyer et al., 2019).
+To identify bacteria linked to disease, scientists often use differential abundance analysis to determine which bacteria are more prevalent in treated samples compared to controls. However, this method has faced criticism (Quinn et al., 2021). In the proposed project, students will explore alternative approaches to characterize the causative agent(s) of SCTLD. Instead of relying on differential abundance analysis, students will employ machine learning techniques on previously analyzed microbiome data (Rosales et al., 2023). They will use various machine learning classifiers to develop a predictive model aimed at identifying both primary and secondary bacterial pathogens associated with SCTLD.
+
+Team Size: 2 students
+
+POC: Stephanie Rosales (Stephanie.Rosales@noaa.gov)
+
+## Pittsburgh Radio Rosary and Consecration
+### Pittsburgh Radio Rosary and Consecration Interactive Prayer Service
 The Pittsburgh Radio Rosary and Consecration (PITTRRC), Inc. provides a daily 7 pm scriptural Rosary and Sacred Heart prayer of Consecration radio broadcast on WKHB at 620 am and transmits on 92.3, 94.1, and 102.1 FM. This broadcast, a tradition for over 50 years in the Pittsburgh region, has been a source of spiritual connection and unity. In April 2022, PITTRRC assumed the ministry's rights and responsibility; now, we are ready to take it to new heights. PITTRRC created a new audio production in July 2022, and we want to enhance the ministry with a unique prayer-based interactive website and YouTube channel. This technological capability with the website will allow anyone to pray together or independently, educate, and communicate with one another in faith. This website would be unconventional by design, offer interactive prayer, and go beyond a standard text-only WordPress site.
 
 [More information]({{site.baseurl}}/projects/pdfs/PITTRRC_F2024.pdf)
 
-Team Size: 3/4 students
-POC: John DePasquale (mailto:jbdepasquale@msn.com)
+Team Size: 3-4 students
 
+POC: John DePasquale (jbdepasquale@msn.com)
+## Midwife Sally
+### Midwife Sally - A Virtual Reality Training Tool for Midwives
+The [Midwife Sally organization](http://mymidwifesally.com/) offers pregnancy-related educational content to over 200,000 [followers](https://www.facebook.com/MidwifeSallygh/); mostly pregnant/trying to conceive women. Though the founder, Ruth Sally Kodam, is based in Ghana, her reach has now extended to Nigeria, Zambia, the UK and the United States. After taking some of Sally’s private classes, several women will post about how Sally’s course helped them during labor (see attached example). These women often leave a “digital trail” on Sally’s facebook page. 
 
+We would like to 
+1. quantify these testimonials using NLP or ML. So the references are usually “midwife sally, your class taught me….xyz”
+ 
+2. Create a midwife sally intake and outtake form, where participants can review the course and tell us the knowledge gained. The form, if designed to collect longitudinal data, will be great! The data can be analyzed in the future too, to evaluate maternal/infant/birth outcomes.
 
-<!-- ## Behavior, Fairness, and Safety in Traffic Control
-In recent years, several studies have proposed different methods and formulations for the Traffic Signal Control problem, presenting promising results and flexible traffic light solutions. Some of the studies investigate technical AI aspects (e.g., different neural network architectures, transfer learning, RL models, etc.) and the coordination problem (e.g., distributed systems), while others are interested in the implementation side of things (e.g., Systems/IoT), just to name a few of the interests within the Computer Science realm.
+3. Develop a "geo location" tool that pregnant clients can use to search for the nearest hospital and associated reviews. 
 
-For this project, the focus is to verify how adaptive systems handle not only efficiency (e.g., minimize time loss) but also other important aspects of traffic control, namely, behavior changes in traffic flow due to expected and unexpected events, fairness between the different actors of the system, and safety (e.g., accidents prevention).
 
-For the capstone project, we want you to focus on one specific aspect of Traffic Control: Emergency Vehicles.
-- Prioritize Emergency Vehicles (e.g., EMS vehicles) in the street network by preempting the traffic lights and adding virtual lanes so EMVs can arrive at their destination quickly and safely.
-- At the end of the semester, you will produce a conference-like paper, which we intend/plan to submit.
+Team Size: 3 students
 
-We are looking for self-motivated, independent individuals interested in real-world problems. Being comfortable programming Python is indispensable since you will work with pre-existing (and extensive) code, interact with the traffic simulator (Sumo), run experiments, and plot graphs. Interest in doing research is differential since you will write and read about it. Interest in RL is desirable but knowledge is not required.
+POC: Martina Anto-Ocrah (MAA509@pitt.edu)
 
-* Team Size: 3/4 students
-* POC: Marcelo d'Almeida (marcelo@pitt.edu) -->
+## Brad Hays 
+### Wood Veneer Marquetry Artwork Generation
+I'm a woodworker in my spare time, and for a while now I've been tossing around the idea of how photo mosaic-creating software could be used to create next-level marquetry artwork. Marquetry is a millennia-old image-creating process whereby thin veneers of wood are meticulously shaped to interconnect with each other and, when laid down like strokes from a paintbrush, assemble into an image whose realism and authenticity depends on the quality of the movements within each veneer piece, as well as the skill of the artisan.  Given the various color movements that occur in high-grade veneers, one should be able to cut many hundreds (thousands actually) of small wood squares and use them as 'pixels,' if you will, to create a larger 'target' image.  And because I have about as much artistic ability as a doorknob, I need some help getting this done, which is where the idea of a software-aided process comes into play.   
 
-<!-- ## Connecting Indigenous Knowledge
+Project Goals: 
+- Develop a software tool that can take a target image and a library of veneer images and generate a marquetry piece that can be cut out by a laser with fixed shapes and sizes.
+- Develop a software tool to assist in the assembly of the marquetry piece by indicating where each piece should be placed in the final image.
+- Develop a software tool that can generate arbitrary shapes based on a target need and library of available veneer.
 
-[More information]({{site.baseurl}}/projects/pdfs/Connecting_Indigenous_Knowledge-CS_Capstone.pdf)
 
-Around the world, many cultures are significantly threatened by the erosion of cultural integrity, climate change, loss of habitat, the environmental impact of globalization, and the ravages of epidemics. Cultures that do not have a strong written tradition are especially threatened – as younger generations move away in search of education and jobs, and as globalization forces linguistic shifts to more “global” languages such as English and Spanish, rich oral traditions either disappear completely or become artifacts in university or library archives, accessible only to small groups of academics.  Many initiatives have been activated to preserve and revitalize indigenous cultures, traditions, and languages. While quite a few of these initiatives involve the use of computational technologies and multimedia to document and archive indigenous languages, knowledge, and cultures, much of what has been created to date is primarily designed to serve academic communities and does not provide access to either the broader public (e.g., anyone who wishes to learn about a particular culture) or to the indigenous communities that provided the data in the first place. Moreover, existing systems tend to focus on a single corpus of stories and do not provide possibilities to connect and map stories, characters, and concepts across multiple cultures and languages.
+Team Size: 4 students
 
+POC: Brad Hays (bradleyheathhays@gmail.com)
 
-We propose to develop StoryWorlds ITK (Indigenous Traditional Knowlege Worlds), an open-source web-based system for collecting, storing, connecting, and presenting Indigenous traditional knowledge (ITK) in the form of stories, myths, and testimonies from multiple cultures and languages.  Moreover, the proposed system will allow users to connect ITK narratives based on topics, characters, environments, storylines, and other criteria (e.g., a particular animal appears in X stories from X cultures and acts as a positive character in X of the stories and as a negative character in the remaining X stories).
+# SCI Projects
+## Daniel Mosse 
+### Cutting-edge research in NLP
+The project will be focused on extracting course concepts from course presentations using a state-of-the-art tool called DS-MOCE. The students are expected to gain experience in the following:
 
+Annotation of Data for Model Training (this is the input to the NLP model) 25% effort
+Read the documentation and papers describing DS-MOCE, a state-of-the-art Course Concept extraction tool, to understand how the tool works, what inputs are needed, how to run it, expected results, etc. 10% effort
+Work with, modify as needed, install packages needed by the tool, and run the (research) code to benchmark its performance on a variety of inputs. 50% effort
+Analyze the results, and draw conclusions. 15% effort
 
-The proposed system will offer three sets of user interfaces (UIs): (1) a UI for academic users (i.e., anthropologists, linguists, botanists, ornithologists, and traditional knowledge specialists to support the uploading of stories, field notes, and associated media, concept mapping, and creation of ontologies; (2) a text-based search UI to allow any user (but especially younger indigenous users) to search through stories using multiple combinations of keywords and concept and present results in text-based or tabular format; (3) a graph-based search UI to allow any user to search through stories using multiple combinations of keywords and concept and present results as an interactive visual network of concepts.
+The project will be supervised by Prof Daniel Mosse and PhD student Raja (RJ) Krishnaswamy.
 
+Team Size: 2 students
 
-Visualizing and exploring  ITK with knowledge graphs can provide a new perspective on traditional stories and their themes, motifs, and characters. Techniques such as network analysis, tree maps, and sentiment analysis can reveal patterns and relationships within  ITK that might otherwise be overlooked. For example, network analysis can uncover the relationships between the characters in a story, while sentiment analysis can help identify the emotions associated with them. Graph-based approaches to oral traditions can also be useful in comparative studies across cultures or time periods. Research into representing oral literature with knowledge graphs can uncover unique insights into traditional stories and their cultural significance.  Imagine, for example, if any member of the public could quickly compare the role of a coyote in relation to various plants and animals along with key emotions evoked by a coyote across different languages of the US and Mexico.  Imagine also that indigenous experts within those various traditions could upload new versions they had heard.   A much more nuanced animal character might emerge than might be simply captured by the reductive category “trickster”.
+POC: Daniel Mosse (mosse@pitt.edu)
 
-- Skills Required:
-    - Python
-    - Flask
-    - JavaScript
-    - D3js
-    - Neo4j graph database
+### StudentPaths and Concept Progression Maps Deployment
+Intro: StudentPaths and Concept Progression Maps are data analytics tools designed to assist undergraduate academic advisors by finding trends in historical student data, matching current students to those historical trends, and exposing finer granularity detail for grades.  These tasks allow advisors to talk more in-depth with their students about their undergraduate careers and course content.
 
-* Team Size: 3/4 students
-* POC: Dmitriy Babichenko (dmitriy.b@pitt.edu) -->
+Currently, an MVP (minimum viable product, not most valuable player) for both tools have been developed and they're ready for deployment; students will:
 
+1. Understand the previously written code, using existing documentation, and fill in any knowledge gaps in that documentation (ie, follow documentation, but write down what's missing/misleading)
+2. Fix any bugs that are still outstanding to be able to run these tools on your own machine (ie, deploy local copy)
+3. Deploy onto the cloud: must know or want to learn how to work with Microsoft Azure, and  Single Sign-On at Pitt (ie, deploy services on Azure and enable PittID authentication)
+4. Work with PittIT to attach a data warehouse containing anonymized transcript information to use in StudentPaths (ie, hook up to a database)
+5. Integrate the system with Canvas, by being able to extract course, assignment and grade data to use in the Concept Progression Maps system (ie, learn the Canvas API to get data for CPMs)
+6. Test both systems to ensure they are working as intended
+7. Create documentation to help future developers operate and maintain the code.
+8. Time Permitting: Create documentation to help non-experts (i.e., advisors) run the system on their machine(s)
 
-<!-- ## Transformations project
+Students will be expected to work as a team to fulfill these requirements and meet with the clients on a weekly basis to ensure adequate progress is being made.
 
-* Team Size: 2/3 students
-* POC: Nick Farnan (nlf4@pitt.edu) and Israel Herndon -->
+If you have any questions, please contact Nathan Ong (nro5@pitt.edu) or Daniel Mosse (mosse@pitt.edu).  Nathan is a post-doc at Pitt's LRDC+UCTL, Daniel is a faculty member in CS.  We will have weekly meetings.
 
-<!-- ## Nadine -->
+Team Size: 2-3 students
 
-<!-- ## Daniel Mosse projects
+POC: Nathan Ong (nro5@pitt.edu), Daniel Mosse (mosse@pitt.edu)
 
-1 - Hyperparameter Optimization (applied to machine-learning-based Intrusion Detection Systems (IDSs)): This area is directed towards the automated selection and tuning of hyperparameters in an effort to enhance the efficiency and effectiveness of intrusion detection systems based on machine-learning methods.
-2 - Explainable Artificial Intelligence - XAI (applied to machine-learning-based Intrusion Detection Systems (IDSs)): This subject deals with the development of machine-learning models that are not just effective, but are also transparent and interpretable. The goal is to create IDSs that users can not only trust but also understand.
+## Aakash Gautam
+### Digital Literacy for Returning Community Members
+We are working with a non-profit organization that supports formerly incarcerated individuals  (who we call "returning community members") in their reentry journey. A part of the organization's program involves promoting digital literacy as a way to support empowered reentry. We have been working with the organization to develop a web application that they will use to provide digital literacy lessons.  We are seeking help in building a new feature to support envisioning future goals and connecting them with local resources.
 
-### Basic Requirements:
-- Programming Proficiency: Applicants should possess a reasonable level of proficiency in Java or Python.
-- Machine Learning Familiarity: Familiarity with, or an interest and willingness to QUICKLY learn as guided how to use, machine learning libraries is essential.
+A key issue shared by the returning community members is that they struggle to figure out what resources are available near them. This is a structural problem. We do not have a well-curated list of local resources, and most of the lists that have been created are seldom verified. More critically, these resources are not presented in a way that informs people how they can use them for the goals that matter to them. To attend to this issue, we want to build a system that enables people to do the following:
+1. They draw out (using public images and videos) a vision of a successful future (say, 3 years or 5 years from now).
+2. They reflect on where they stand right now.
+3.  Following the reflection, they chart an action plan detailing what they may need to do to realize those goals.
+4. Using [findhelp.org](http://findhelp.org/), they connect to some of the local resources they can access as part of their action plan.
 
-### Flexible Application:
-We are open to adapting the project to explore Explainable Artificial Intelligence (XAI) or Hyperparameter Optimization (HPO) in educational data mining contexts or applications rather than IDSs.
+This project is new. We are beginning this project from scratch. This means that you will wireframe design ideas, iterate on them, and finally implement a prototype on React.
 
-### International experience: the co-advisor, Silvio E. Quincozes, is a Brazilian researcher at the Federal University of Pampa (UNIPAMPA):
-Students also have the unique opportunity to collaborate on a project with the Federal University of Pampa in Brazil. They have a project (XAIID - Intelligent and Explainable Strategies for Intrusion Detection in Cyber-Physical Systems) that focuses on intelligent and explainable strategies for intrusion detection in cyber-physical systems. Participants will not only gain valuable international research experience but will also be awarded a certificate of completion for their contributions to the XAIID project.
 
-* Team Size: 2/3 students each project
-* POC: Daniel Mossé (mosse@pitt.edu), Silvio Quincozes (sequincozes@gmail.com) -->
+Technology requirements:
 
+Since the main website is built using React, students need to have some proficiency in Javascript and React. In addition, students will need to work on Figma so it will help if they already are familiar with or are willing to learn Figma.
 
-<!-- ## Virtual dashboard to manage SCI rooms and inventory
-This project will aim at creating a new equipment inventory management/loaner management page for SCI.
-Current system is OLD and not great! For example, it can only be used for Sennott. And we want to replace it with one that expands its functionality and embraces whole SCI
+Team Size: 3-4 students
 
-It will include:
-    - a per room equipment management view,
-    - graphic representation of network ports, and equipment location
+POC: Aakash Gautam (AAKASH@pitt.edu)
 
-* Team Size: 2/3 students
-* POC: Matheus Barbosa (matheus.lb@gmail.com)
+## Luís Oliveira
+Note: Only one of these projects will be picked.
 
-## Virtual Billboards for the CS department
+### Web-Configurable Bot for Discord
+This project involves the development of a custom Discord bot and its accompanying management website, aimed at enhancing course communications. The bot will be designed for configurable commands and integration with educational platforms such as Canvas, enabling tailored interactions for students. Key tasks include developing the bot, establishing a web-based interface for configuration and control, and creating specific commands that certain students can invoke based on course integration. This project presents a unique opportunity for students interested in web development, backend programming, and interactive system design, offering a practical application in a real-world educational setting.
+ 
 
-This project wants to create a webpage to expand the current ‘What do you want’ lists on our murals.
-Including SCI Ideas/projects/suggestions/wiki page
+This work started last semester, so you will be working on an existing codebase. We will be working on some buggy behaviours, and enhancing its functionality!
+  
 
-Its users (Students, staff, and faculty) can submit ideas for projects improvements. Then a curator role would moderate suggestions (just to avoid trash and abuse!) and make them public.
+Skills Required: Web development experience. No specific languages or frameworks enforced; current work using Python backend and JavaScript frontend. We can change!
 
-Ideas/projects can be rated, up-voted (so SCI and departments can prioritize implementation when viable).
-And once the projects are selected for implementation, SCI community can track their status.
+Team size: 3–4 students
 
-Posters need to be created to advertise the page.
+POC: Luís Oliveira (loliveira@pitt.edu)
 
-* Team Size: 2/3 students
-* POC: Matheus Barbosa (matheus.lb@gmail.com) -->
 
+### RF-based Ranging for Relative Localization
+The focus of this project is to develop an application utilizing RF-based ranging technology for relative localization. The task involves working with Qorvo DWM3001CDK development kits, which are equipped with hardware capable of measuring distances based on wireless signals between devices. The primary challenge is to understand and utilize the manufacturer’s implementation examples to create a standalone application running on these boards. This application will not only measure distances between devices but also estimate their relative positions using a known technique for converting distances into positions.
 
-<!-- ## Luis Oliveira projects - ONLY 2 out of these 3!
+Skills Required: Comfort with C programming and an interest in embedded systems; prior experience in this area is beneficial but not required.
 
-### Measuring performance losses of a userspace traffic controller
-In this project we will be implementing a non-workconserving network-traffic scheduler in the Linux kernel and measure its performance when compared to a user-space implementation.
+Team size: 3–4 students
 
-You'll need to learn about eBPF (extended Berkley Packet Filters) [Timing? What's timing?](https://www.youtube.com/watch?v=J_EehoXLbIU), and how to use them to instrument the execution of the code. Then, you'll run experiments to measure the impact on communitacition latency and bandwidth.
+POC: Luís Oliveira (loliveira@pitt.edu)
 
-Then, we'll look into netlink sockets (a mechanism to communicate with a kernel space program) to reconfigure the scheduler. If there is time, we will use this to implment a traffic scheduler.
-- Skills:
-    - Must have taken CS1550!
-    - Be confortable with C
+## Nadine von Frankenberg
+### Treefficiency 
+"Treefficiency" focuses on the gamification of learning about energy efficiency at home, specifically targeting appliances and energy-saving options available to home owners and renters. By integrating interactive, game-based elements, the project aims to educate homeowners and renters on effective strategies to reduce their carbon footprint, energy consumption, and costs. You will be extending the project with some fun features. Be creative! Features could be: an interactive forest that grows based on trivia points, using OCR to process energy bills, defining scripts to analyze user data,... The project currently comprises mobile Flutter apps but could also be extended by a web version to monitor the state of the application and database.
 
-* Team Size: 2/3 students
-* POC: Luís Oliveira (loliveira@pitt.edu)
+Skills:
+- Some knowledge in Flutter / Dart Desirable but not required
 
-### Create an Android ROS2-based controller to interface with a robot
-Question: can we easily run ROS2 from Android?
-Answer: That's what you'll have to figure out! :)
+Team Size: 3 students
 
-In this project, you will be tasked to research ways of interfacing with the ROS2 middleware (commonly used in robotics) from Android. There are some libraries in the wild; but I don't know how to use them. Of if/how they work at all. So, first task, look into those and see if/how they work.
+POC: Nadine von Frankenberg (vonfrankenberg@pitt.edu)
 
-Second task, make an interface to remote control some robots by sending messages. Which may require programming some robots!
+### TeachTech Toolkit
+"TeachTech Toolkit" aims to enhance teaching and learning workflows by integrating tools, including Canvas and Gradescope, along with the setup of GitHub projects. It aims to create a cohesive workflow that facilitates efficient assignment distribution, grading, and feedback, while also incorporating practical aspects of software development, such as version control, test case development, and API interaction. You will be defining workflows and implement small applications throughout the project.
 
-Then, we'll look into netlink sockets (a mechanism to communicate with a kernel space program) to reconfigure the scheduler. If there is time, we will use this to implment a traffic scheduler.
-- Skills:
-    - Should have an android phone (I can lend you 1 if needed be)
-    - Be confortable with Java (Android), and C (Android/ROS2)
+Team Size: 2 students
 
-* Team Size: 2/3 students
-* POC: Luís Oliveira (loliveira@pitt.edu)
-
-### RF-based ranging - Running Round-Trip Time-of-flight for locatization
-I have [these boards](https://www.qorvo.com/products/p/DWM3001CDK). They are development kit that are equipped with hardware that can measure distance based on the time wireless signals take to travel between 2 devices.
-
-In this project, you will be tasked to learn how to use them! :)
-This will require [digging into some datasheets and application notes](https://www.qorvo.com/products/p/DWM3001CDK#documents), and possibly some soldering (I can help :).
-
-Once we are able to use the devices, we will build a simple application that can estimate the relative positions of these devices! Using a well known technique to convert distances into positions.
-
-- Skills:
-    - Should be confortable with C!
-    - Experience with embedded systems is good, but not needed (you can learn!)
-
-* Team Size: 2/3 students
-* POC: Luís Oliveira (loliveira@pitt.edu) -->
-
-
-
-<!-- # Other units projects
-
-## UMS - Visual Novel Game
-
-**Requires signing an NDA/IP release**
-
-This is a game development project that will pick up an already existant codebase and further develop it.
-
-Desired Features:
-- Biggest Feature: Ability to parse in written scripts that is interpreted into content (see below)
-- Start Screen with Menu Options New Game, Load Data, Options, Extra, and Exit
-- Phone Feature: Check document
-- Unique Backlog Feature
-- Staple VN Features
-
-**Check Canvas for details**
-
-* Team Size: 3/4 students
-* POC: Justin Bortnick (jabortnick@pitt.edu) -->
-
-
-<!-- ## Dashboard to manage the Involvement and Student Unions units
-The department of Involvement and Student Unions is a newly imagined area within Student Affairs. It has taken the place of what was Student Life. This departments mission is to Magnify mattering through Place, Space & Activities. Unlike most departments within Student Affairs, this area is composed a of a number different units, The Student Unions, The Pitt Program Council, PITT ARTS, Technical Services, and the Student Organizations Resource Center (SORC). Each of these areas have distinct deliverables, cultures, and financial systems with staff members with varying degrees of financial knowledge.
-
-The challenge is multileveled. The first is to understand the financial spending approach of each area so that a local version of a tracking tool can be created rightsized for the unit. The second is to create a unified centralized system that can support each unique area while providing a summary dashboard that can tabulate and provide comparative data live to the director. Third is the ability to integrate spending goals related to diversity and sustainability.
-
-* Team Size: 3/4 students
-* POC: DaVaughn Vincent-Bryan (davaughn.vincentbryan@pitt.edu) -->
-
-<!-- ## AI for Surgical Research
-
-Project Background
-
-The University of Pittsburgh produces some of the highest quantity and quality surgical research in the country, if not world. Although many breakthroughs come from basic/translational research, clinical research primarily drives our fields forward at a steady pace. This type of research can be anything from retrospective studies based on prior patients’ charts (colloquially named “chart reviews”) to systematic reviews to generate best-practices to randomized control trials for novel treatments or techniques. However, there is an incredible amount of tedium that is involved in generating each research project.
-
-AI poses the possibility to reduce that tedium, as well as increase efficiency, and produce more and higher-quality research. Given the ease of using and developing upon available generate AI APIs, we are interested in creating tools to improve our research.
-
-Project Summary In this project, students will work on developing and testing one or multiple tools to further the research capabilities of multiple surgical departments, Neurosurgery, Craniofacial and Pediatric Plastic Surgery, Orthopedic Surgery to start with. Our desired tools include developing an app to create outlines and comprehensive literature “pulls” for systematic review generation, an app that allows for training a model based on a user’s previous writing in order to have “personalized” editing and writing suggestions, and an app that generates high-quality medical images that can be used in publications. There are additional similar projects if there is time or a desire for future work. IP and NDA agreements will be discussed.
-
-Project Goals
-
-  - Evaluate most useful publicly available LLM for our purposes
-
-  - Develop desktop or web apps as above
-
-  - Stretch goal – bring the multiple apps above into one multi-functional app that can allow for further functionality to be built on top in future iterations
-
-Team
-
-  - 2-4 students
-
-  - Nicolás Kass, Craniofacial and Pediatric Plastic Surgery Research Fellow and Co-Director of Medical Research, Surreality Lab (Primary)
-
-  -  Dr. Ted Andrews, Assistant Professor of Neurosurgery, Founder and Director of Surreality Lab (secondary) -->
-
-<!-- 30-43 -->
-
-
+POC: Nadine von Frankenberg (vonfrankenberg@pitt.edu)

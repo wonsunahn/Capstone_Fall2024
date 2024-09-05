@@ -3,8 +3,8 @@ layout: page
 permalink: /projects/
 ---
 
-# Capstone Project List - WORK IN PROGRESS
-This list is not complete yet! (Contains most projects)
+# Capstone Project List
+Below is a list of the projects for the Fall 2024 semester. 
 
 # Industry Capstone Projects
 
@@ -72,7 +72,7 @@ POC: Praveen Sone (praveen.sone@cgi.com)
 Neuraville Inc. is a leading deep technology company headquartered in Pittsburgh, PA, specializing in artificial general intelligence (AGI) and robotics. Our mission is to make the development of safe, versatile, and functional AI systems accessible to everyone. We focus on creating AI that can process diverse sensory data and execute complex tasks requiring cognitive reasoning and decision-making.
 At Neuraville, we embrace a novel approach rooted in nature-inspired methodologies, drawing insights from neuroscience, genetics, and developmental biology. This allows us to develop AI systems that mirror the complexity and adaptability of natural intelligence. We believe in democratizing AI, empowering individuals to innovate, create, and profit from their ideas. Our vision is to see, in the near future, robots extending a helping hand to humans in need—whether due to aging, sickness, disability, or simply as assistants to take on the burden of repetitive and mundane tasks—allowing us to focus on what we value most.
 
-Each project revolves around our open-source platform, FEAGI, and I have attached additional background information on both FEAGI and Neuraville for your reference. The estimated duration for each project is 3-4 weeks for a single full-time junior engineer, making them manageable for a team of 3 to 4 students within a semester timeframe. Our engineering team will be on hand to offer support throughout the course of these projects.
+Each project revolves around our open-source platform, [FEAGI](https://github.com/feagi/feagi) or the Framework for Evolutionary Artificial General Intelligence. It is a groundbreaking platform that enables the creation of brain-inspired neural circuits. Our engineering team will be on hand to offer support throughout the course of these projects.
 
 Importantly, all projects are fully open-source, so students are not required to sign NDAs or any IP ownership agreements. This allows them the freedom to publish their work and potentially continue contributing to the project thereafter.
 
@@ -144,7 +144,7 @@ Team Size: 3-4 students
 
 POC: Mohammad Nadji (nadji@neuraville.com)
 
-# Community and Other Projects
+# Community and Other Organizations
 
 ## NOAA
 ### Machine Learning Based Predictive Modeling of Bacterial Pathogens with Stony Coral Tissue Loss Disease
@@ -170,11 +170,9 @@ POC: John DePasquale (jbdepasquale@msn.com)
 ### Midwife Sally - A Virtual Reality Training Tool for Midwives
 The [Midwife Sally organization](http://mymidwifesally.com/) offers pregnancy-related educational content to over 200,000 [followers](https://www.facebook.com/MidwifeSallygh/); mostly pregnant/trying to conceive women. Though the founder, Ruth Sally Kodam, is based in Ghana, her reach has now extended to Nigeria, Zambia, the UK and the United States. After taking some of Sally’s private classes, several women will post about how Sally’s course helped them during labor (see attached example). These women often leave a “digital trail” on Sally’s facebook page. 
 
-We would like to 
+We would like to: 
 1. quantify these testimonials using NLP or ML. So the references are usually “midwife sally, your class taught me….xyz”
- 
 2. Create a midwife sally intake and outtake form, where participants can review the course and tell us the knowledge gained. The form, if designed to collect longitudinal data, will be great! The data can be analyzed in the future too, to evaluate maternal/infant/birth outcomes.
-
 3. Develop a "geo location" tool that pregnant clients can use to search for the nearest hospital and associated reviews. 
 
 
@@ -196,15 +194,15 @@ Team Size: 4 students
 
 POC: Brad Hays (bradleyheathhays@gmail.com)
 
-# SCI Projects
+# Computer Science Faculty Projects
 ## Daniel Mosse 
 ### Cutting-edge research in NLP
 The project will be focused on extracting course concepts from course presentations using a state-of-the-art tool called DS-MOCE. The students are expected to gain experience in the following:
 
-Annotation of Data for Model Training (this is the input to the NLP model) 25% effort
-Read the documentation and papers describing DS-MOCE, a state-of-the-art Course Concept extraction tool, to understand how the tool works, what inputs are needed, how to run it, expected results, etc. 10% effort
-Work with, modify as needed, install packages needed by the tool, and run the (research) code to benchmark its performance on a variety of inputs. 50% effort
-Analyze the results, and draw conclusions. 15% effort
+Annotation of Data for Model Training (this is the input to the NLP model) (25% effort)
+Read the documentation and papers describing DS-MOCE, a state-of-the-art Course Concept extraction tool, to understand how the tool works, what inputs are needed, how to run it, expected results, etc. (10% effort)
+Work with, modify as needed, install packages needed by the tool, and run the (research) code to benchmark its performance on a variety of inputs. (50% effort)
+Analyze the results, and draw conclusions. (15% effort)
 
 The project will be supervised by Prof Daniel Mosse and PhD student Raja (RJ) Krishnaswamy.
 

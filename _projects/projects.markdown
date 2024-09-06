@@ -166,8 +166,9 @@ The Pittsburgh Radio Rosary and Consecration (PITTRRC), Inc. provides a daily 7 
 Team Size: 3-4 students
 
 POC: John DePasquale (jbdepasquale@msn.com)
+
 ## Midwife Sally
-### Midwife Sally - A Virtual Reality Training Tool for Midwives
+### Facebook educational tool for pregnant women in Ghana
 The [Midwife Sally organization](http://mymidwifesally.com/) offers pregnancy-related educational content to over 200,000 [followers](https://www.facebook.com/MidwifeSallygh/); mostly pregnant/trying to conceive women. Though the founder, Ruth Sally Kodam, is based in Ghana, her reach has now extended to Nigeria, Zambia, the UK and the United States. After taking some of Sally’s private classes, several women will post about how Sally’s course helped them during labor (see attached example). These women often leave a “digital trail” on Sally’s facebook page. 
 
 We would like to: 

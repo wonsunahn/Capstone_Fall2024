@@ -19,7 +19,11 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 3 (Week of 13 SEP)
   
-* Student presentations
+* Sarina Saran
+* Drake Maguire
+* Matthew Guiddy
+* Emma Tristano
+* Roy Wu
   
 ## WEEK 4 (Week of 20 SEP)
 

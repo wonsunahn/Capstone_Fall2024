@@ -27,43 +27,77 @@ The presentations will be given in the order they are listed on the particular d
   
 ## WEEK 4 (Week of 20 SEP)
 
-* Student presentations
+* Mark Bosco
+* James Hathaway
+* Christopher Mohri
+* Jordan Shopp
 
 ## WEEK 5 (Week of 27 SEP)
 
-* Student presentations
+* Teresa Davison
+* Mark Kraus
+* Yang Pan
+* Charles Rutkowski
+* Jaiden Slifer
 
 ## WEEK 6 (Week of 4 OCT)
 
-* Student presentations
+* Kavin Shankar
+* Parth Patel
+* Lining Liu
+* Todd Kocher
+* Tobias Beidler-Shenk
 
 ## WEEK 7 (Week of 11 OCT)
 
-* Student presentations
+* Gavin Abramowitz
+* Adam Gould
+* Branden Lientz
+* Anne Norris
 
 ## WEEK 8 (Week of 18 OCT)
 
-* Student presentations
+* Rohan Sharma
+* Thomas Noto
+* Ethan Nerone
+* Tobias Kaczka
+* Griffin McCool
 
 ## WEEK 9 (Week of 25 OCT)
 
-* Student presentations
+* Brayden Yan
+* Janai Larry-Halsey
+* Victoria Hutchison
+* Paul Doherty
+* Emma Chau
 
 ## WEEK 10 (Week of 1 NOV)
 
-* Student presentations
+* Raquel Buege
+* Nicolas Lininger
+* Charles Marianik
+* Sloane McCensky
+* Leo Zhang
 
 ## WEEK 11 (Week of 8 NOV)
 
-* Student presentations
+* Madeleine Lasky
+* Bilal Mukhtar
+* Chirag Sehgal
+* Grace Sweeney
 
 ## WEEK 12 (Week of 15 NOV)
 
-* Student presentations
+* Maximus Hayes
+* Owen Spencer
 
 ## WEEK 13 (Week of 22 NOV)
 
-* Student presentations
+* Vibha Hodachalli
+* Samih Irfan
+* John Kretzing
+* Corey Medve
+* Delaney Scheidell
 
 ## WEEK 14 (Week of 29 NOV)
 

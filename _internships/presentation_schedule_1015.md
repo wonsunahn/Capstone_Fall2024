@@ -70,6 +70,8 @@ The presentations will be given in the order they are listed on the particular d
 * Tassneem Khattab
 * Scott Schwartz
 * Haoshen Wu
+* Quentin Lauro
+* Steve Johns
 
 ## WEEK 10 (Week of 1 NOV)
 

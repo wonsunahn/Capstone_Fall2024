@@ -27,43 +27,77 @@ The presentations will be given in the order they are listed on the particular d
   
 ## WEEK 4 (Week of 20 SEP)
 
-* Student presentations
+* Kyle Bello
+* Daley Fraser
+* Tyler Lowe
+* Liam Munley
+* Niam Noaman
 
 ## WEEK 5 (Week of 27 SEP)
 
-* Student presentations
+* Brian Cavanaugh
+* Caden Milne
+* Kevin Pak
+* Lucy Reilly
+* Brandon Yasin
 
 ## WEEK 6 (Week of 4 OCT)
 
-* Student presentations
+* Hayden Walker
+* Rand Hasan
+* Danish Ghumman
+* Conrad French
+* Maya Blackburn
 
 ## WEEK 7 (Week of 11 OCT)
 
-* Student presentations
+* Dominick Colangelo
+* Matthew Garvey
+* Connor Gramling
+* Justin Han
+* Ruchi Hegde
 
 ## WEEK 8 (Week of 18 OCT)
 
-* Student presentations
-
+* Emma Welker
+* Akshitha Viswanadhula
+* Peizhao Mei
+* Julie Lawler
+* Maxim Atkins
 ## WEEK 9 (Week of 25 OCT)
 
-* Student presentations
+* Tassneem Khattab
+* Scott Schwartz
+* Haoshen Wu
 
 ## WEEK 10 (Week of 1 NOV)
 
-* Student presentations
+* Alexandra Butler
+* Dominick Dellecave
+* Alex Malfregeot
+* Zachary Schultz
+* Magda Videva
 
 ## WEEK 11 (Week of 8 NOV)
 
-* Student presentations
+* Ayan Shah
+* Nhu Nguyen
+* Sruthi Malineni
+* Fae Mahmoud
+* Alex Coffman
 
 ## WEEK 12 (Week of 15 NOV)
 
-* Student presentations
+* Jonathan Coulter
+* Katelin Fierens
+* Adam Gimbel
+* Brandon Moretti
 
 ## WEEK 13 (Week of 22 NOV)
 
-* Student presentations
+* Rachel Chang
+* Brian Donaghey
+* Michael Wang
 
 ## WEEK 14 (Week of 29 NOV)
 

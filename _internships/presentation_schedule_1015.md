@@ -64,6 +64,7 @@ The presentations will be given in the order they are listed on the particular d
 * Peizhao Mei
 * Julie Lawler
 * Maxim Atkins
+
 ## WEEK 9 (Week of 25 OCT)
 
 * Tassneem Khattab

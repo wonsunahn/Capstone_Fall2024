@@ -93,11 +93,11 @@ The presentations will be given in the order they are listed on the particular d
 * Katelin Fierens
 * Adam Gimbel
 * Brandon Moretti
+* Brian Donaghey
 
 ## WEEK 13 (Week of 22 NOV)
 
 * Rachel Chang
-* Brian Donaghey
 * Michael Wang
 
 ## WEEK 14 (Week of 29 NOV)

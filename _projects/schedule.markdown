@@ -12,10 +12,10 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 
 |Date          | Topic                                                                                                                             |
 |--------------+-----------------------------------------------------------------------------------------------------------------------------------|
-| August 30  | Introduction     |
+| August 30  | Introduction    [Presentation 1]({{site.baseurl}}/lectures/Capstone_Lecture1.pdf) |
 | September 6  | Project pitches     |
-| September 13 | [Presentation 1]({{site.baseurl}}/lectures/Capstone_Lecture1.pdf) <br> Sprint 1 project begins!     |
-| September 20 | [Presentation 2]({{site.baseurl}}/lectures/Capstone_Lecture2_RequirementsElicitation.pdf)  |
+| September 13 |  [Presentation 2]({{site.baseurl}}/lectures/Capstone_Lecture2_RequirementsElicitation.pdf) <br> Sprint 1 project begins!     |
+| September 20 | No Class  |
 | September 27 | Retrospective 1 <br> Project proposal due (one per group)<br> Sprint 2 begins     |
 | October 4   | No class                                                                |
 | October 11    | Retrospective 2 <br>Sprint 3 begins   |

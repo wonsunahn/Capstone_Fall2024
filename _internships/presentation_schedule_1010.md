@@ -90,14 +90,14 @@ The presentations will be given in the order they are listed on the particular d
 
 * Maximus Hayes
 * Owen Spencer
+* Corey Medve
+* Delaney Scheidell
+* Samih Irfan
 
 ## WEEK 13 (Week of 22 NOV)
 
 * Vibha Hodachalli
-* Samih Irfan
 * John Kretzing
-* Corey Medve
-* Delaney Scheidell
 
 ## WEEK 14 (Week of 29 NOV)
 

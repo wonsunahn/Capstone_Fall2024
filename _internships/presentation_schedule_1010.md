@@ -18,10 +18,10 @@ The presentations will be given in the order they are listed on the particular d
 * [Lecture on assertion evidence format]({{site.baseurl}}/internships/pdfs/lecture-on-assertion-evidence-format.pdf)
 
 ## WEEK 3 (Week of 13 SEP)
-  
+
+* Kameren Jouhal
 * Jeremy Luu
 * Jacqueline Colmenares
-* Kameren Jouhal
 * Quinn Newman
 * Stephen Gwon
   

@@ -98,6 +98,8 @@ The presentations will be given in the order they are listed on the particular d
 
 * Vibha Hodachalli
 * John Kretzing
+* Humeyra Kacar
+* Niccolo Nobili
 
 ## WEEK 14 (Week of 29 NOV)
 
@@ -105,6 +107,9 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 15 (Week of 6 DEC)
 
-* Student presentations
+* Krit Ravichander
+* John Hohman
+* Ethan Wells
+* XingYu Song
 
 **[[[ Best Capstone Speaker awards ]]]**

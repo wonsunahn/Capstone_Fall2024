@@ -69,9 +69,9 @@ failure.
 
 ## Presentation organization
 
-* There will be a doodle poll to decide on presentation dates on September 6 during class.
-  * There will be 5 slots per day which are allotted first-come-first-serve.
-  * Please think of preferred dates before coming to class.
+* The presentation schedule has been finalized.  This is the official schedules for the two sections.
+  * [Presentation Schedule (1010 Section)]({{site.baseurl}}/internship_presentation_schedule_1010)
+  * [Presentation Schedule (1015 Section)]({{site.baseurl}}/internship_presentation_schedule_1015)
 
 * There will be typically 5 students presenting each day.  That means 50 / 5 =
   10 minutes per student.  Those 10 minutes is going to be broken down as

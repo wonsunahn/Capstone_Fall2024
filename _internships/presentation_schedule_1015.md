@@ -102,6 +102,8 @@ The presentations will be given in the order they are listed on the particular d
 * Rachel Chang
 * Michael Wang
 * Jason Vo
+* Zeana El Hajomar
+* Luke Daniel
 
 ## WEEK 14 (Week of 29 NOV)
 
@@ -109,6 +111,10 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 15 (Week of 6 DEC)
 
-* Student presentations
-
+* Kenneth Barrett
+* Isabel Gonzalez
+* Kevin Pak
+* Jeffrey Zheng
+* Haoshen Wu
+  
 **[[[ Best Capstone Speaker awards ]]]**

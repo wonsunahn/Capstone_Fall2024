@@ -101,6 +101,7 @@ The presentations will be given in the order they are listed on the particular d
 
 * Rachel Chang
 * Michael Wang
+* Jason Vo
 
 ## WEEK 14 (Week of 29 NOV)
 

@@ -37,7 +37,6 @@ The presentations will be given in the order they are listed on the particular d
 
 * Brian Cavanaugh
 * Caden Milne
-* Kevin Pak
 * Lucy Reilly
 * Brandon Yasin
 

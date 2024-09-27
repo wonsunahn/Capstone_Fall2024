@@ -3,7 +3,7 @@ layout: page
 permalink: /projects_schedule
 ---
 
-# CS1980 and CS1640 FALL 2023 COURSE SCHEDULE #
+# CS1980 and CS1640 FALL 2024 COURSE SCHEDULE #
 
 **This schedule is ~tentative~ and may change!**
 {: style="color: #F00"}

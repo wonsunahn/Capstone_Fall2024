@@ -10,11 +10,11 @@ Fall Semester 2024
 ## SPRINT REPORT
 
 This report should be submitted before the end of each sprint! (Check the schedule)
-Send it by e-mail to ALL the team, and cc. the sponsor and the instructor.
+Send it by e-mail to ALL the team, and cc. the sponsor and the instructor. You will also turn in your report to canvas.
 
 ## FORMATTING REQUIREMENTS
 
-This is an informal report, there are no strict formatting requirements, only content requirements.
+This is an informal report, there are no strict formatting requirements, only content requirements. Although, you should try and make it as readable as possible.
 
 1. For each team member
     1. Sprint tasks completed and approximate number of hours spent in each

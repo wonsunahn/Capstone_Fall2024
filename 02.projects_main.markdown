@@ -138,11 +138,10 @@ There will be, at least, five deliverables for teams to complete during this cou
 
 
 ## Peer Evaluations
-Each sprint, you will be evaluated by your team members. The peer evaluation will be through a peer evaluation form filled out by your team mates for every sprint. 
+Each sprint, you will be evaluated by your team members. The peer evaluation will be through a peer evaluation form filled out by your team mates for every sprint. You will also be filling out a peer evaluation form for each of your team members (and yourself). The purpose of this evaluation is to provide feedback to your team members on their performance and to provide feedback to the instructor on the performance of the team members.
 
 The student’s peer evaluation grade is the average of the numbers assigned by their teammates. A student who did not fill out a Peer Evaluation Form for a given sprint will receive a ZERO score for the same sprint.
 
-A different form link will be given to each student! You should submit the form for yourself only (don’t submit on behalf of someone else). And ablsolutely do not share any links! If any abuse of the survey system is suspected or detected, it may result in (1) deducting points, (2) failing the course, and/or (3) reporting the case as cheating.
 
 ## Product
 Throughout the semester, you will be evaluated by the instructor and the client. By the end of the semester, the instructor will meet with the client and get their feedback on your performance and professionalism. 

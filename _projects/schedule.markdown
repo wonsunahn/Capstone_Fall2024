@@ -24,6 +24,6 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 | November 1   | [Presentation 4]({{site.baseurl}}/lectures/Writing a document.pdf)     |
 | November 8  | Presentations <br> Retrospective 4 <br> Sprint 5 begins     |
 | November 15  | Presentations  |
-| November 22   | Presentations <br> Retrospective 5|
-| November 29  | No Class <br> Final report due <br> |
+| November 22   | Presentations <br> Retrospective 5 <br> Final report due |
+| November 29  | No Class <br> Final report extended deadline |
 | December 6  | Poster session during last class - Location TBD |

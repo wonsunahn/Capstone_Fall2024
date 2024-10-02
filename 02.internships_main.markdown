@@ -20,21 +20,7 @@ This table will be populated with (anonymous) peer review scores for each
 presentation, on each week when there is a presentation.  The top scorer
 will receive the [Best Capstone Speaker Award](#peer-review-organization).
 
-
-
-| Name | Content | Organization | Delivery | Overall |
-|---------|---------|--------------|----------|---------|
-| Tyler Lowe | 4.592 | 4.612 | 4.367 | 4.524 | 
-| Kyle Bello | 4.449 | 4.347 | 4.510 | 4.435 |
-| James Hathaway | 4.491 | 4.208 | 4.453 | 4.384 |
-|  | 4.298 | 4.468 | 4.326 | 4.364 |
-|  | 4.313 | 4.375 | 4.167 | 4.285 |
-|  | 3.940 | 3.880 | 4.620 | 4.147 |
-|  | 4.192 | 4.423 | 3.750 | 4.122 |
-|  | 4.038 | 3.827 | 4.250 | 4.038 |
-|  | 4.132 | 4.019 | 3.830 | 3.994 |
-| Average | 4.272 | 4.240 | 4.253 | 4.255 |
-
+Under construction --- will repopulate within a couple of days.  Apologies!
 
 ## Your responsibilities
 

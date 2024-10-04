@@ -19,6 +19,7 @@ permalink: /CS1900_1950/
 This table will be populated with (anonymous) peer review scores for each
 presentation, on each week when there is a presentation.  The top scorer
 will receive the [Best Capstone Speaker Award](#peer-review-organization).
+
 |Name|Content Score|Organization Score|Delivery Score|Overall Score|
 |---|---|---|---|---|
 | Jeremy Luu | 4.56 | 4.60 | 4.54 | 4.57 |

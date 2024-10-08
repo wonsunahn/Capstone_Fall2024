@@ -54,6 +54,7 @@ The presentations will be given in the order they are listed on the particular d
 * Adam Gould
 * Branden Lientz
 * Anne Norris
+* Owen Phillips
 
 ## WEEK 8 (Week of 18 OCT)
 

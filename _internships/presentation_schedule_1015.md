@@ -50,7 +50,7 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 7 (Week of 11 OCT)
 
-* Dominick Colangelo
+* Domenic Colangelo
 * Matthew Garvey
 * Connor Gramling
 * Justin Han

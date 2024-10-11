@@ -50,7 +50,6 @@ The presentations will be given in the order they are listed on the particular d
 
 ## WEEK 7 (Week of 11 OCT)
 
-* Gavin Abramowitz
 * Adam Gould
 * Branden Lientz
 * Anne Norris
@@ -86,6 +85,7 @@ The presentations will be given in the order they are listed on the particular d
 * Bilal Mukhtar
 * Chirag Sehgal
 * Grace Sweeney
+* Gavin Abramowitz
 
 ## WEEK 12 (Week of 15 NOV)
 

@@ -10,7 +10,7 @@ This final paper is required for all students in the Capstone, including interns
 
 ## FORMATTING REQUIREMENTS
 
-The paper must be 8 - 12 pages in length, double-spaced, using a relatively standard font and point size (e.g., 12-point Times New Roman or Computer Modern).  Judicious use of charts, graphs, and/or illustrations is acceptable.  Margins should be of standard size.
+The paper must be 8 - 12 pages in length excluding the front matter (title page, table of contents, etc.), double-spaced, using a relatively standard font and point size (e.g., 12-point Times New Roman or Computer Modern).  Judicious use of charts, graphs, and/or illustrations is acceptable.  Margins should be of standard size.
 
 Please ensure that your name as well as the name of the company / lab you worked on is at the header, along with your faculty sponsor (whoever signed your Faculty Learning Agreement) for CS 1900 students or your research PI for CS 1950 students.
 

@@ -53,7 +53,8 @@ As this is a capstone course, you are expected to be self-motivated and independ
   * week 2 - project pitches
   * week 3 - students interact with mentors, rank projects, receive assignment
   * week 4 - students hand in page proposal
-  * week ~9 - students give a midterm presentation of progress with a demo
+  <!-- * week ~9 - students give a midterm presentation of progress with a demo -->
+  * week ~9 - students give a midterm report of progress
   * weeks 4-15 - students carryout projects; talks and meetings every many classes
   * last week - students present their work during scheduled class!s
 
@@ -119,10 +120,12 @@ There will be, at least, five deliverables for teams to complete during this cou
 ### Midterm Update
   * [See Midterm Update]({{site.baseurl}}/project_midterm_update)
 
-### Midterm Presentation
+<!-- ### Midterm Presentation
   * 10-15 minute presentation to class
-  * Listeners will have to evaluate the presentation
-
+  * Listeners will have to evaluate the presentation -->
+### Project Presentation
+  * 10-15 minute presentation to class
+  * Listeners will have to evaluate the presentation -->
 
 ### Final Project Poster Session
   * [A poster session with a demo of the software]({{site.baseurl}}/project_presentation)

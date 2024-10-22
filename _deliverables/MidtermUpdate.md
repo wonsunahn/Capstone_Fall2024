@@ -6,13 +6,14 @@ permalink: project_midterm_update
 # CS CS1980/CS1640 CAPSTONE
 Fall Semester 2024
 
+<!-- ## MIDTERM UPDATE PAPER AND PRESENTATION -->
 ## MIDTERM UPDATE PAPER AND PRESENTATION
 
 This proposal paper is required for all students in the *project* sections of the Capstone (CS1980 and CS1640)
 
 It is not required for students in the internship or research sections (CS1900 and CS1950).
 
-The midterm presentation is a short (5 - 10 minute) explanation of what you have done do far and what you are planning to do.  Except in extraordinary circumstances, you MUST show a working version of the software (although it will not, of course, be feature-complete).  Such circumstances may include NDA other customer-set limitations or the work being research-based.  Other exceptions will be handled and approved on a case-by-case basis (ask me in advance).
+<!-- The midterm presentation is a short (5 - 10 minute) explanation of what you have done do far and what you are planning to do.  Except in extraordinary circumstances, you MUST show a working version of the software (although it will not, of course, be feature-complete).  Such circumstances may include NDA other customer-set limitations or the work being research-based.  Other exceptions will be handled and approved on a case-by-case basis (ask me in advance). -->
 
 ## FORMATTING REQUIREMENTS
 
@@ -20,7 +21,8 @@ The paper must be 3 pages or more in length, using a relatively standard font an
 
 Please ensure that your name as well as the name of the project you worked on is listed, along with the name of the customer.
 
-This is a group assignment - only one midterm paper and presentation is expected from each group.
+<!-- This is a group assignment - only one midterm paper and presentation is expected from each group. -->
+This is a group assignment - only one midterm paper is expected from each group.
 
 ## DETAILS
 

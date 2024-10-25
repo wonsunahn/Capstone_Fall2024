@@ -125,7 +125,7 @@ There will be, at least, five deliverables for teams to complete during this cou
   * Listeners will have to evaluate the presentation -->
 ### Project Presentation
   * 10-15 minute presentation to class
-  * Listeners will have to evaluate the presentation -->
+  * Listeners will have to evaluate the presentation
   
   The presentation is a short explanation of what you have done do far and what you are planning to do.  Except in extraordinary circumstances, you MUST show a working version of the software (although it will not, of course, be feature-complete).  Such circumstances may include NDA other customer-set limitations or the work being research-based.  Other exceptions will be handled and approved on a case-by-case basis (ask me in advance).
 

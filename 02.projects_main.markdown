@@ -11,7 +11,7 @@ permalink: /CS1980_1640/
 [Check the assignments here.]({{site.baseurl}}/project_assignments)
 
 # Schedule
-[Check the schedule here]({{site.baseurl}}/projects_presentation_schedule).
+[Check the schedule here]({{site.baseurl}}/projects_schedule).
 
 # Communication
 
@@ -129,7 +129,7 @@ There will be, at least, five deliverables for teams to complete during this cou
   
   The presentation is a short explanation of what you have done do far and what you are planning to do.  Except in extraordinary circumstances, you MUST show a working version of the software (although it will not, of course, be feature-complete).  Such circumstances may include NDA other customer-set limitations or the work being research-based.  Other exceptions will be handled and approved on a case-by-case basis (ask me in advance).
 
-  See the [Presentation Schedule]({{site.baseurl}}/presentation_schedule) for when you will be presenting.
+  See the [Presentation Schedule]({{site.baseurl}}/projects_presentation_schedule) for when you will be presenting.
 
 ### Final Project Poster Session
   * [A poster session with a demo of the software]({{site.baseurl}}/project_presentation)

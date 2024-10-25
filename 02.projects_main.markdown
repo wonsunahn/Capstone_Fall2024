@@ -11,7 +11,7 @@ permalink: /CS1980_1640/
 [Check the assignments here.]({{site.baseurl}}/project_assignments)
 
 # Schedule
-[Check the schedule here]({{site.baseurl}}/projects_schedule).
+[Check the schedule here]({{site.baseurl}}/projects_presentation_schedule).
 
 # Communication
 

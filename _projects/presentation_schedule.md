@@ -1,10 +1,8 @@
 ---
 layout: page
 permalink: /projects_presentation_schedule
+title: Project Presentation Schedule
 ---
-
-
-# Presentation Schedule
 
 ## Project Presentations
 

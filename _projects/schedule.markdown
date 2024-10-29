@@ -20,7 +20,7 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 | October 4   | No class                                                                |
 | October 11    | Retrospective 2 <br>Sprint 3 begins   |
 | October 18   | No Class  |
-| October 25   |  Presentation 3 on Presentations <br> Retrospective 3 <br> Midterm update due <br> Sprint 4 begins  |
+| October 25   |  [Presentation 3 on Presentations]({{site.baseurl}}/lectures/Capstone_Lecture3_Presentations.pdf) <br> Retrospective 3 <br> Midterm update due <br> Sprint 4 begins  |
 | November 1   |  Presentation 4 on Writing Reports |
 | November 8  | Presentations <br> Retrospective 4 <br> Sprint 5 begins     |
 | November 15  | Presentations  |

@@ -21,9 +21,9 @@ As always, keep up with the [University Academic Calendar][university-calendar] 
 | October 11    | Retrospective 2 <br>Sprint 3 begins   |
 | October 18   | No Class  |
 | October 25   |  [Presentation 3 on Presentations]({{site.baseurl}}/lectures/Capstone_Lecture3_Presentations.pdf) <br> Retrospective 3 <br> Midterm update due <br> Sprint 4 begins  |
-| November 1   |  Presentation 4 on Writing Reports |
+| November 1   |  No Class |
 | November 8  | Presentations <br> Retrospective 4 <br> Sprint 5 begins     |
 | November 15  | Presentations  |
-| November 22   | Presentations <br> Retrospective 5 <br> Final report due |
-| November 29  | No Class <br> Final report extended deadline |
-| December 6  | Poster session during last class - Location TBD |
+| November 22   | Presentations <br> Retrospective 5 |
+| November 29  | No Class |
+| December 6  | Poster session during last class - Location TBD <br> Final report due |

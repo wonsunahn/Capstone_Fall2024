@@ -114,6 +114,5 @@ The presentations will be given in the order they are listed on the particular d
 * Isabel Gonzalez
 * Kevin Pak
 * Jeffrey Zheng
-* Haoshen Wu
   
 **[[[ Best Capstone Speaker awards ]]]**
